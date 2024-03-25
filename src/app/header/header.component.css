@@ -1,0 +1,24 @@
+.header {
+    background: linear-gradient(162deg, #0079eb 0%, #c6c8fb 75%);
+    color: #0f191e;
+    text-align: center;
+}
+
+a {
+    size: 50px;
+}
+
+.navbar {
+    background-color: #b8c3d4;
+    border-bottom: 1px solid #e9ecef;
+}
+
+.navbar.is-dark {
+    background-color: #1a1a1a;
+    border-bottom: 1px solid #2b2b2b;
+    color:white;
+}
+
+a .navbar.is-dark{
+    color: white;
+}
